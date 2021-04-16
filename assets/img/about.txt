@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Aclonica
+- Font Author: Copyright (c) 2010 Brian J. Bonislawsky (astigma@astigmatic.com)
+- Font Source: http://fonts.gstatic.com/s/aclonica/v11/K2FyfZJVlfNNSEBXGb7TCI6oBjLz.ttf
+- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
