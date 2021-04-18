@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618528961917</updated>
       <workItem from="1618528963067" duration="12852000" />
-      <workItem from="1618708450248" duration="242000" />
+      <workItem from="1618708450248" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="Changes made">
       <created>1618546322840</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618708538256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Modifications">
+      <created>1618708716556</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618708716556</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,14 +141,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618546125396" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1618708542390">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1618708725847">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618708542390" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618708605709">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618708725847" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618708778703">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618708605709" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618708778703" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1618532660462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
