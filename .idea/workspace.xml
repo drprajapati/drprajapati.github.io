@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a055fe52-0d72-4190-b6c2-edfc9116e295" name="Default Changelist" comment="Changes made">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a055fe52-0d72-4190-b6c2-edfc9116e295" name="Default Changelist" comment="Favicon added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618528961917</updated>
-      <workItem from="1618528963067" duration="12114000" />
+      <workItem from="1618528963067" duration="12852000" />
     </task>
     <task id="LOCAL-00001" summary="Changes made">
       <created>1618546322840</created>
@@ -49,15 +63,42 @@
       <option name="project" value="LOCAL" />
       <updated>1618546322840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Facivcon added">
+      <created>1618546683293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618546683293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Favicon added">
+      <created>1618546743932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618546743932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes made" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes made" />
+    <MESSAGE value="Facivcon added" />
+    <MESSAGE value="Favicon added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Favicon added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618529118967">
@@ -80,10 +121,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618546125396" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1618546361232">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1618546745886">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618546361232" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618546745886" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1618532660462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
