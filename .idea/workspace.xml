@@ -21,6 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a055fe52-0d72-4190-b6c2-edfc9116e295" name="Default Changelist" comment="Modifications">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/profile-img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +35,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1rE6a093wcJ3DnjtwEdyQs8JW1f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/darshanprajapati/Desktop/Darshan/Learning/ReactJS/Projects/Website/assets/img&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Website\MyResume\assets\img\portfolio" />
     </key>
@@ -59,6 +71,8 @@
       <updated>1618528961917</updated>
       <workItem from="1618528963067" duration="12852000" />
       <workItem from="1618708450248" duration="445000" />
+      <workItem from="1653659633260" duration="5400000" />
+      <workItem from="1653665600156" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="Changes made">
       <created>1618546322840</created>
@@ -111,7 +125,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes made" />
@@ -119,39 +132,5 @@
     <MESSAGE value="Favicon added" />
     <MESSAGE value="Modifications" />
     <option name="LAST_COMMIT_MESSAGE" value="Modifications" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618529118967">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1618529118967" />
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618546264677">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618546264677" />
-    <state x="645" y="330" key="Github.ShareDialog" timestamp="1618546160628">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="645" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1618546160628" />
-    <state x="576" y="137" key="Github.UntrackedFilesDialog" timestamp="1618546178662">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="576" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618546178662" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1618546125396">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618546125396" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1618708725847">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1618708725847" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618708778703">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1618708778703" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1618532660462">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1618532660462" />
   </component>
 </project>
